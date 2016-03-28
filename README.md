@@ -1,11 +1,11 @@
 # Getting-CleaningDataPeerAssignment
 Getting &amp; Cleaning Data Peer Assignment 
 
-Assignment Submission Files
+Assignment Submission Files:
 
-run_analysis.R
 README.md
 CookBook.md
+run_analysis.R
 
 Instructions
 
