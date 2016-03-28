@@ -1,10 +1,14 @@
 This code book includes information about:
+
 1.	Source data set
 2.	Cleaning process and aggregation applied in source data
 3.	Output aggregated data set variables
-Study Design:
+
+
 Source data was collected from the UCI Machine Learning Repository to complete an assignment for Getting & Cleaning data course. This assignment includes working with the data set and transforming it to get a clean output. 
+
 Transformations applied on source data are to get clean aggregated output are:
+
 1.	Download the data set
 2.	Unzip the data set
 3.	Load test and training data sets into data frames
@@ -17,7 +21,9 @@ Transformations applied on source data are to get clean aggregated output are:
 10.	Save new cleaned output to "cleanedData.txt"
 11.	Apply aggregated function mean & std on new cleaned data set
 12.	Save new aggregated output to "aggregatedData.txt"
+
 Cleaned & Aggregated output variables:
+
 1.	subjectId: 1 to 30 each representing a participant in the study
 2.	activity: the activity that the subject was doing at the time of the measurement
 3.	tBodyAcc-mean-X
